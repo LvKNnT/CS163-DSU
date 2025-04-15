@@ -46,4 +46,5 @@ int main(void) {
 	a.join(0, 3);
 	a.join(2, 3);
 	std::cout << a.sameSet(0, 2);
+	return 0;
 }
